@@ -54,7 +54,7 @@ export default function Home() {
        </div>
 
 
-       <div className="absolute buttom-0 z-[5] w-full h-auto">
+       <div className="absolute bottom-0 z-[5] w-full h-auto">
           <Image src="/trees.webp" width={2000} height={2000}  alt='trees' className='w-full h-full' />
        </div>
 
