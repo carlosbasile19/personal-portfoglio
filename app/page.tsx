@@ -16,7 +16,7 @@ export default function Home() {
               </h1>
                 
                 <p className='text-gray-200 hidden md:block'>
-                      I'm a Blockchain Developer and a Workday Consultant. I'm passionate about technology and I love to learn new things.
+                      I'm a Blockchain Developer and a Senior Workday Consultant. I'm passionate about technology and I love to learn new things.
                 </p>
                 <div className="flex-col relative md:flex-row hidden md:flex gap-5">
                     <Link href="/my-skills" className='rounded-[20px] relative bg-blue-500 hover:bg-blue-400 px-5 py-3 text-lg text-white max-w-[200px]'>
